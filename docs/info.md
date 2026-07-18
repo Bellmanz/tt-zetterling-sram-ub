@@ -1,7 +1,7 @@
 # Zetterling SRAM for Tiny Tapeout
 
 SRAM Test using DFF or simpler registers (Wokwi version)
-Carl-Mikael Zetterling, 2026-07-17
+Carl-Mikael Zetterling, 2026-07-18
 
 Comment: I plan to replace this with a Verilog version by Sep 7
 
